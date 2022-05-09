@@ -1,0 +1,18 @@
+.banner{
+    //Adicionando imagem de fundo.
+    //imagem centralizada e sem repetição.
+    background: url(../../imagens/banner.jpeg) 27% center no-repeat;
+
+    //tamanho mínimo
+    min-height: 350px;
+    //propiedade para ocupação de toda a área que informamos
+    background-size: cover;
+    //para confirgurar os alinhamentos dos elementos internos
+    display: flex;
+    //Centralizar elementos
+    justify-content: center;
+    align-items: center;
+    //transparência do nosso fundo
+    opacity: 0.9;
+
+}
