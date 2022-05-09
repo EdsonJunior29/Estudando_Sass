@@ -1,5 +1,5 @@
 html, body {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 nav {
@@ -15,5 +15,6 @@ nav ul li a {
   text-transform: uppercase;
   text-decoration: none;
   font-weight: bold;
+  color: #EB5353;
 }
 /*# sourceMappingURL=style.css.map */
