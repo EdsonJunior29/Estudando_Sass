@@ -149,4 +149,24 @@ nav ul li a:hover {
           box-shadow: 1px 1px 8px 1px #EB5353;
   outline: none;
 }
+
+#cupom button {
+  text-transform: uppercase;
+  margin-top: 20px;
+  outline: none;
+  height: 40px;
+  text-align: center;
+  width: 200px;
+  background-color: #EB5353;
+  color: #FFC4DD;
+  border-radius: 30px;
+  border: none;
+  letter-spacing: 1px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+#cupom button:hover {
+  opacity: 0.9;
+}
 /*# sourceMappingURL=style.css.map */

@@ -34,4 +34,23 @@
             outline: none;
         }
     }
+
+    button{
+        text-transform: uppercase;
+        margin-top: 20px;
+        outline: none;
+        height: 40px;
+        text-align: center;
+        width: 200px;
+        background-color: $cor-primaria;
+        color: $cor-terciaria;
+        border-radius: 30px;
+        border: none;
+        letter-spacing: 1px;
+        font-weight: bold;
+        cursor: pointer;
+        &:hover{
+            opacity: 0.9;
+        }
+    }
 }
